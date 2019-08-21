@@ -1,5 +1,6 @@
  AOS.init({
- 	duration: 800,
+	 //duration: 800,
+	duration: 4000, 
  	easing: 'slide',
  	once: false
  });
